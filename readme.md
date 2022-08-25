@@ -1,6 +1,6 @@
 # PacMen Factory
 
-<img src= "pacman.png" width='300'/>
+<img src= "pacman.png" width='512'/>
 
 This is the "PacMen Factory Exercise" where one of the buttons create randomly placed characters from the classic arcade game "Pac Man", and the second button moves the characters randomly around the screen bouncing on previously calculated boundaries.
 
