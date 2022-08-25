@@ -4,6 +4,8 @@
 
 This is the "PacMen Factory Exercise" where one of the buttons create randomly placed characters from the classic arcade game "Pac Man", and the second button moves the characters randomly around the screen bouncing on previously calculated boundaries.
 
+Future Improvement will add different movement speeds as well as different PacMan characters
+
 ---
 MIT License
 
